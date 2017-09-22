@@ -1,15 +1,17 @@
 html {
   font-family: 'Open Sans', sans-serif;
-  color: #2C180E;
-  background-color: #871D1B;
+  color: #2f2f2f;
+  background-color: #2f2f2f;
 }
 
 .card {
-  border: 3px solid #2C180E;
-  background-color: #fff;
+  border: 0 solid #2C180E;
+  background-color: #949494;
   margin-top: 5em;
 }
 
-
+.icon {
+  background-color: #fff;
+}
 
 #B9892D
